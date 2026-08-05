@@ -1,3 +1,3 @@
 # demo
 this is my first repo
-my  name is karan kumar verma 
+my  name is karan kumar 
